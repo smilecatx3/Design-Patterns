@@ -1,0 +1,9 @@
+*.class
+*.code-workspace
+*.pptx
+
+# non-project files
+.gradle/
+.vscode/
+.idea/
+*.iml
